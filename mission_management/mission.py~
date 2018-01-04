@@ -1,5 +1,0 @@
-
-class Mission:
-    def __init__(self, descrition, details):
-        self.description = descrition
-        self.details = details
