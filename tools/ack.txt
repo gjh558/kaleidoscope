@@ -1,0 +1,1 @@
+curl https://beyondgrep.com/ack-2.28-single-file > ~/bin/ack && chmod 0755 ~/bin/ack
